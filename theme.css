@@ -1,0 +1,16 @@
+
+	h1 {
+		align-items: center;
+		color: red;
+	}
+	h2 {
+		color: blue;
+	}
+
+	h3 {
+		color: green;
+	}
+
+	img {
+		filter: drop-shadow(0 0 2.5rem black);;
+	}
